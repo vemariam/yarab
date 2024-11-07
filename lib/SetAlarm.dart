@@ -12,7 +12,7 @@ class Setalarm extends StatelessWidget {
         actions: [
         TextButton(
         onPressed: null,
-        child: Text('Create',style: TextStyle(fontSize:20 ,color: Colors.grey[700]),),
+        child: Text('create',style: TextStyle(fontSize:20 ,color: Colors.grey[700]),),
         )],
       ),
       body:
